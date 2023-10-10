@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">APICallVolley</string>
+    <string name="button">Get Quote</string>
+</resources>
